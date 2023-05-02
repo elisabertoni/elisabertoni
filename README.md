@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I'm a Full Stack Developer. I recently completed a 17-week intensive Web Development bootcamp with Dev Academy Aotearoa
+- 💻 I'm a Full Stack Developer. I recently completed a 17-week Web Development bootcamp with Dev Academy Aotearoa
 - 🔭 I’m currently working on random full stack projects and tidying up repos from my Dev Academy Journey
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on cool projects 
