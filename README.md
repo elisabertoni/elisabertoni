@@ -4,6 +4,5 @@
 - 🔭 I’m currently working on random full stack projects and tidying up repos from my Dev Academy Journey
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on cool projects 
-- 💬 Ask me about anything!
 - 📫 How to reach me: bertoni_elisa@hotmail.com or check my [LinkedIn profile](https://www.linkedin.com/in/elisa-bertoni-dev/)
 - ⚡ Fun fact: I am lactose intolerant!
